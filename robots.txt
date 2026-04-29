@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AndreeaNeculaiTHG.github.io/handbook-67r865/sitemap.xml
